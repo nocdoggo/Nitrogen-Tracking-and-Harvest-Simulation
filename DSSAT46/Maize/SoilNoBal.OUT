@@ -1,0 +1,34 @@
+*SOIL ORGANIC N BALANCE - CENTURY ROUTINES
+
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 22, 2019; 09:45:14
+                                                                                
+*RUN   1        : Sim1                      MZCER046 UINT1601    1              
+ MODEL          : MZCER046 - Maize                                              
+ EXPERIMENT     : UINT1601 MZ N TRACK                                           
+ DATA PATH      :                                                               
+ TREATMENT  1   : Sim1                      MZCER046                            
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                2016/316            2017/288
+! SOIL N BALANCE                                -----------kg N/ha-----------
+!  SOIL & SURFACE ORGANIC MATTER N
+!   Active (= microbial) SOM N                       6.27               29.54
+!   Intermediate SOM N                              70.08               91.59
+!   Passive SOM N                                 8778.25             8764.78
+!   Soil Litter N                                   59.36                3.60
+!   N in Litter on Top of the Soil                   0.00                0.00
+!   N in Microbes on Top of the Soil                 0.00                0.00
+!                                                --------            --------
+!   Total Organic N in Soil and Surface Layers    8913.96             8889.50
+
+!  ADDITIONS AND REMOVALS:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N in returned senesced material                  4.24
+!   N immobilized                                   34.13
+!   N mineralized                                                       62.82
+!                                                --------            --------
+!     TOTAL N BALANCE                             8952.33             8952.33
+!   Balance                                                              0.00

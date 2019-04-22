@@ -1,0 +1,16 @@
+*MANAGEMENT OPERATIONS EVENT SUMMARY
+
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 22, 2019; 09:45:14
+                                                                                
+*RUN   1        : Sim1                      MZCER046 UINT1601    1              
+ MODEL          : MZCER046 - Maize                                              
+ EXPERIMENT     : UINT1601 MZ N TRACK                                           
+ DATA PATH      :                                                               
+ TREATMENT  1   : Sim1                      MZCER046                            
+  
+@RUN Date........  DOY    DAS    DAP  CR  Operation       Quantities
+   1 NOV 11, 2016  316      1      0  MZ  Start Sim
+   1 MAY 18, 2017  138    189      0  MZ  Planting       
+   1 OCT  7, 2017  280    331    142  MZ  Phys. Maturity 
+   1 OCT 15, 2017  288    339    150  MZ  Harvest          4218. kg/ha
+ 

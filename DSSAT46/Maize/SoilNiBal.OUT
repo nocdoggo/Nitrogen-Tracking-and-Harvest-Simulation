@@ -1,0 +1,31 @@
+*SOIL INORGANIC N BALANCE
+
+*DSSAT Cropping System Model Ver. 4.6.1.000 -release      APR 22, 2019; 09:45:14
+                                                                                
+*RUN   1        : Sim1                      MZCER046 UINT1601    1              
+ MODEL          : MZCER046 - Maize                                              
+ EXPERIMENT     : UINT1601 MZ N TRACK                                           
+ DATA PATH      :                                                               
+ TREATMENT  1   : Sim1                      MZCER046                            
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                2016/316            2017/288
+!SOIL INORGANIC N BALANCE                       -----------kg N/ha-----------
+
+!   Soil NO3                                        56.38               27.53
+!   Soil NH4                                        96.75                0.54
+!   Soil Urea                                        0.00                0.00
+
+!   Added to / Removed from Soil:
+!   Fertilizer N                                     0.00
+!   Mineralized N                                   62.82
+!   Leached NO3                                                         40.88
+!   N Denitrified                                                       13.29
+!   N Uptake From Soil                                                  99.58
+!   Ammonia volatilization                                               0.00
+!   N immobilized                                                       34.13
+
+!   Total N balance                                215.95              215.95
+!   Balance                                                             0.000

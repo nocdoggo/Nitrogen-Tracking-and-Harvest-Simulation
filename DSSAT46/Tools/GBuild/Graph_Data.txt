@@ -1,0 +1,5 @@
+
+File(s): C:\DSSAT46\maize\SoilNi.OUT
+
+ Day           NIAD(Run 1)   NI1D(Run 1)  
+ 0             275.2         5            
