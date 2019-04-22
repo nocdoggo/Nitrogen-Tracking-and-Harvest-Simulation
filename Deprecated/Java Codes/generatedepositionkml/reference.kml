@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Pollen Deposition Results</name>
+    <Style id="blue">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffff0000</color>
+      </PolyStyle>
+    </Style>
+	
+	<Style id="red">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff0000ff</color>
+      </PolyStyle>
+    </Style>
+	
+	<Style id="green">
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff00ff00</color>
+      </PolyStyle>
+    </Style>
+	
+	<Style id="yellow">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+	
+	<Style id="cyan">
+      <LineStyle>
+        <color>ffd0e040</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffd0e040</color>
+      </PolyStyle>
+    </Style>
+	
